@@ -3,6 +3,5 @@
 body {
   margin: 0;
   padding: 0;
-  background:
-  "radial-gradient(circle at top left, #1e3a8a 0%, #0f172a 35%, #020617 100%)",
+  font-family: 'Inter', sans-serif;
 }
